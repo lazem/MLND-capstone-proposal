@@ -90,7 +90,7 @@ The output dataset of the second stage will be used to train the ML model. It wi
 
 In this final stage, the model will be evaluated against test set from the crawled data. 
 
-https://raw.githubusercontent.com/lazem/MLND-capstone-proposal/master/images/project_design.png
+![Project Design](https://raw.githubusercontent.com/lazem/MLND-capstone-proposal/master/images/project_design.png)
 
 ### References
 [1] Detection of Distinct URL and Removing DUST Using Multiple Alignments of Sequences https://www.irjet.net/archives/V3/i1/IRJET-V3I1162.pdf
